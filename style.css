@@ -30,6 +30,5 @@ h3{
 }
 
 .button:hover{
-  	background-color: #4CAF50;
-  	color: white;
+  	font-size: 45px;
 }
