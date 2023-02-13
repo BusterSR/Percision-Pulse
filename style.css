@@ -13,13 +13,14 @@ h3{
   color: #7678ED;
 }
 .button{
-    transition-duration: 0.4s;
+  transition-duration: 0.4s;
   background-color: #3D348B;
   font-size: 40px;
-    color: #F35B04;
+  color: #F35B04;
   border-radius: 7px;
   padding: 20px 20px;
   border: 5px solid #3D348B;
+  text-align: center;
 }
 
 .button:hover{
@@ -41,7 +42,7 @@ h3{
   background-color: #F7B801;
   width: 100%;
   height: 200px;
-  padding: 40px;
+  padding: 120px;
 }
 .features{
   background-color: #F18701;
