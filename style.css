@@ -5,20 +5,12 @@ body{
 
 h1{
 	font-size: 8em;
+	color: #7678ED;
 }
 h3{
 	font-size: 5em;
+	color: #7678ED;
 }
-/*.buynow{
- 	background-color: 3D348B;
-  	border: none;
-  	color: F35B04;
-  	padding: 50px 50px;
-  	text-align: center;
- 	text-decoration: none;
-  	display: inline-block;
-  	font-size: 25px;
-}*/
 .button{
   	transition-duration: 0.4s;
 	background-color: #3D348B;
