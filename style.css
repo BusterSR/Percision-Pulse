@@ -29,19 +29,23 @@ h3{
 	width: 100%;
 	height: 200px;
 	top: 100%;
+	margin: 0%;
 }
 .vector{
 	background-color: #F7B801;
 	width: 100%;
 	height: 200px;
+	margin: 0%;
 }
 .features{
 	background-color: #F18701;
 	width: 100%;
 	height: 600px;
+	margin: 0%;
 }
 .buynow{
 	background-color: #F35B04;
 	width: 100%;
 	height: 200px;
+	margin: 0%;
 }
