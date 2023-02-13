@@ -22,10 +22,10 @@ h3{
 .button{
   	transition-duration: 0.4s;
 	background-color: #3D348B;
-	font-size: 25px;
+	font-size: 40px;
   	color: #F35B04;
-	border-radius: 2px;
-	padding: 30px 30px;
+	border-radius: 7px;
+	padding: 20px 20px;
 	border: 5px solid #3D348B;
 }
 
