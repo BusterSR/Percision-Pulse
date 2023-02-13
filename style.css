@@ -26,6 +26,7 @@ h3{
   	color: #F35B04;
 	border-radius: 2px;
 	padding: 30px 30px;
+	border: 5px solid #3D348B;
 }
 
 .button:hover{
