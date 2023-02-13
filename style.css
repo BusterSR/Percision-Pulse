@@ -21,8 +21,8 @@ h3{
 }*/
 .button{
   	transition-duration: 0.4s;
-	background-color: 3D348B;
-  	color: F35B04;
+	background-color: #3D348B;
+  	color: #F35B04;
 }
 
 .button:hover{
