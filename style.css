@@ -26,34 +26,30 @@ h3{
   	font-size: 39px;
 }
 .header{
-	position: relative;
-  	background-color: #F18701;
-  	width: 100%;
-  	height: 200px;
-  	top: 40%;
-  	margin: 0;
+  position: relative;
+  background-color: #F18701;
+  width: 100%;
+  height: 200px;
+  margin-top: 0;
 }
 .vector{
-	position: relative;
-  	background-color: #F7B801;
-  	width: 100%;
-  	height: 200px;
-  	margin: 0;
-  	top: 200px;
+  position: relative;
+  background-color: #F7B801;
+  width: 100%;
+  height: 200px;
+  margin-top: 200px;
 }
 .features{
-	position: relative;
-  	background-color: #F18701;
-  	width: 100%;
-  	height: 600px;
-  	margin: 0;
-  	top: 400px;
+  position: relative;
+  background-color: #F18701;
+  width: 100%;
+  height: 600px;
+  margin-top: 400px;
 }
 .buynow{
-	position: relative;
-  	background-color: #F35B04;
-  	width: 100%;
-  	height: 200px;
-  	margin: 0;
-  	top: 1000px;
+  position: relative;
+  background-color: #F35B04;
+  width: 100%;
+  height: 200px;
+  margin-top: 1000px;
 }
