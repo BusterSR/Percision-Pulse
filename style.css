@@ -21,8 +21,24 @@ h3{
 }*/
 .button{
   	box-shadow: 0 8px 16px 0 3D348B, 0 6px 20px 0 F35B04;
+	background-color: 3D348B;
+  	border: none;
+  	color: F35B04;
+  	padding: 50px 50px;
+  	text-align: center;
+ 	text-decoration: none;
+  	display: inline-block;
+  	font-size: 25px;
 }
 
 .button:hover{
   	box-shadow: 0 12px 16px 0 3D348B, 0 17px 50px 0 F35B04;
+	background-color: 3D348B;
+  	border: none;
+  	color: F35B04;
+  	padding: 50px 50px;
+  	text-align: center;
+ 	text-decoration: none;
+  	display: inline-block;
+  	font-size: 25px;
 }
