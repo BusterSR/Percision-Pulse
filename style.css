@@ -35,20 +35,23 @@ h3{
   background-color: #F18701;
   width: 100%;
   height: 200px;
-  padding: 20px;
+  padding: 40px;
 }
 .vector{
   background-color: #F7B801;
   width: 100%;
   height: 200px;
+  padding: 40px;
 }
 .features{
   background-color: #F18701;
   width: 100%;
   height: 600px;
+  padding: 40px;
 }
 .buynow{
   background-color: #F35B04;
   width: 100%;
   height: 200px;
+  padding: 20px;
 }
