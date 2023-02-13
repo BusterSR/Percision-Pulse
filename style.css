@@ -9,3 +9,13 @@ h1{
 h3{
 	font-size: 5em;
 }
+.buynow{
+ 	background-color: 3D348B;
+  	border: none;
+  	color: F35B04;
+  	padding: 3em 5em;
+  	text-align: center;
+ 	text-decoration: none;
+  	display: inline-block;
+  	font-size: 4em;
+}
