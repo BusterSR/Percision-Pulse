@@ -25,7 +25,8 @@ h3{
 }
 
 .button:hover{
-    background-color: #4E449F;
+    background-color: #473D9A;
+    border: 5px solid #473D9A;
 }
 .container {
   display: flex;
